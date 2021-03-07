@@ -1,0 +1,3 @@
+/root/eosio.contracts-1.8.x/build/CMakeFiles/rebuild_cache.dir
+/root/eosio.contracts-1.8.x/build/CMakeFiles/contracts_project.dir
+/root/eosio.contracts-1.8.x/build/CMakeFiles/edit_cache.dir

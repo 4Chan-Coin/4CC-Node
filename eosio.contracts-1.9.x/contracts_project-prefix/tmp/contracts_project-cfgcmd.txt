@@ -1,0 +1,1 @@
+cmd='/snap/cmake/805/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/usr/opt/eosio.cdt/1.7.0/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
